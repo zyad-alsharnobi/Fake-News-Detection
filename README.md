@@ -4,6 +4,8 @@
 
 This project aims to detect fake news using Natural Language Processing (NLP) techniques and Machine Learning (ML) algorithms. The model is designed to classify news articles into either fake or real categories based on the text content.
 
+### Try the [Streamlit app!](https://ziadmostafa1-fake-news-detection-app-mvav1l.streamlit.app/)
+
 ## Features
 
 - Utilizes NLP techniques to preprocess and analyze textual data.
