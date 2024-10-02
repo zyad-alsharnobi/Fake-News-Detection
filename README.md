@@ -52,7 +52,7 @@ You can interact with the model using the Streamlit app to test different articl
    git clone https://github.com/zyad-alsharnobi/Fake-News-Detection.git
 2. Install dependencies:
    ```bash
-  pip install -r requirements.txt
+     pip install -r requirements.txt
 3. Run the Streamlit app:
    ```bash
-  streamlit run app.py
+     streamlit run app.py
